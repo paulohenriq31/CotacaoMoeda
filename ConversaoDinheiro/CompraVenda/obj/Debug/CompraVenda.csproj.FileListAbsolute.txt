@@ -1,0 +1,10 @@
+C:\Users\phhen\source\repos\ConversaoDinheiro\CompraVenda\bin\Debug\CompraVenda.exe.config
+C:\Users\phhen\source\repos\ConversaoDinheiro\CompraVenda\bin\Debug\CompraVenda.exe
+C:\Users\phhen\source\repos\ConversaoDinheiro\CompraVenda\bin\Debug\CompraVenda.pdb
+C:\Users\phhen\source\repos\ConversaoDinheiro\CompraVenda\obj\Debug\CompraVenda.csprojAssemblyReference.cache
+C:\Users\phhen\source\repos\ConversaoDinheiro\CompraVenda\obj\Debug\CompraVenda.Form1.resources
+C:\Users\phhen\source\repos\ConversaoDinheiro\CompraVenda\obj\Debug\CompraVenda.Properties.Resources.resources
+C:\Users\phhen\source\repos\ConversaoDinheiro\CompraVenda\obj\Debug\CompraVenda.csproj.GenerateResource.cache
+C:\Users\phhen\source\repos\ConversaoDinheiro\CompraVenda\obj\Debug\CompraVenda.csproj.CoreCompileInputs.cache
+C:\Users\phhen\source\repos\ConversaoDinheiro\CompraVenda\obj\Debug\CompraVenda.exe
+C:\Users\phhen\source\repos\ConversaoDinheiro\CompraVenda\obj\Debug\CompraVenda.pdb
